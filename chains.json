@@ -1,12 +1,4 @@
 {
-  "mainnet": {
-    "name": "mainnet",
-    "chainID": "phoenix-1",
-    "lcd": "https://phoenix-lcd.terra.dev",
-    "api": "https://phoenix-api.terra.dev",
-    "hive": "https://phoenix-hive.terra.dev/graphql",
-    "walletconnectID": 1
-  },
   "classic": {
     "name": "classic",
     "chainID": "columbus-5",
@@ -14,6 +6,14 @@
     "api": "https://columbus-api.terra.dev",
     "mantle": "https://columbus-mantle.terra.dev",
     "walletconnectID": 2
+  },
+  "mainnet": {
+    "name": "mainnet",
+    "chainID": "phoenix-1",
+    "lcd": "https://phoenix-lcd.terra.dev",
+    "api": "https://phoenix-api.terra.dev",
+    "hive": "https://phoenix-hive.terra.dev/graphql",
+    "walletconnectID": 1
   },
   "testnet": {
     "name": "testnet",
