@@ -14,9 +14,10 @@ jobs:
         with:
           node-version: 16
       - run: npm ci
-      - run: npm build
+      - run: npm run build
         
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
