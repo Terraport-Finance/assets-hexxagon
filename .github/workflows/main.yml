@@ -1,4 +1,4 @@
-name: Upload Assets to S3
+name: Deploy Assets to S3
 
 on:
   push:
@@ -6,13 +6,23 @@ on:
     - master
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm ci
+      - run: npm build
+        
   deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - uses: jakejarvis/s3-sync-action@v0.5.1
       with:
-        args: --acl public-read --follow-symlinks --delete
+        args: --acl public-read --follow-symlinks --delete --exclude '.git/*'
       env:
         AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
         AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY_ID }}
