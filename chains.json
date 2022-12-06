@@ -5,7 +5,7 @@
     "lcd": "https://columbus-lcd.terra.dev",
     "api": "https://columbus-api.terra.dev",
     "mantle": "https://columbus-mantle.terra.dev",
-    "walletconnectID": 2
+    "walletconnectID": 1
   },
   "mainnet": {
     "name": "mainnet",
@@ -13,7 +13,7 @@
     "lcd": "https://phoenix-lcd.terra.dev",
     "api": "https://phoenix-api.terra.dev",
     "hive": "https://phoenix-hive.terra.dev/graphql",
-    "walletconnectID": 1
+    "walletconnectID": 2
   },
   "testnet": {
     "name": "testnet",
