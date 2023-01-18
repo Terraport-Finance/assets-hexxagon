@@ -8,7 +8,11 @@ Please ensure that you have updated your gas prices as follows:
 
 Once updated, kindly create a PR to the following files, by changing `not-updated` against your name to `updated`.
 
-Validators: [Create PR here](validators.json)
+- Validators: [Create PR here](validators.json)
+- CEXes: [Create PR here](cexes.json)
+- Native Wallets: [Create PR here](wallets_native.json)
+- Dapps: [Create PR here](dapps.json)
+- Third-party Wallets: [Create PR here](wallets_external.json)
 
 
 ### How to update gas prices
