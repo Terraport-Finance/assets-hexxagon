@@ -3,7 +3,7 @@
     "name": "classic",
     "chainID": "columbus-5",
     "lcd": "https://lcd.terrarebels.net",
-    "api": "https://api.terrarebels.net",
+    "api": "https://api.terra.dev/",
     "mantle": "https://columbus-mantle.terra.dev",
     "walletconnectID": 1
   },
