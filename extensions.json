@@ -3,7 +3,7 @@
   "whitelist": [
     {
       "name": "Rebel Station",
-      "identifier": "station",
+      "identifier": "rebel-station",
       "icon": "https://assets.terrarebels.net/icon/station-extension/icon.png",
       "urls": [
         {
