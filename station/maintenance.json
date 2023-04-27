@@ -1,5 +1,5 @@
 {
-  "mainnet": false,
-  "classic": false,
-  "testnet": false
+  "mainnet": true,
+  "classic": true,
+  "testnet": true
 }
