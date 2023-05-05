@@ -17,10 +17,10 @@
   },
   "testnet": {
     "name": "testnet",
-    "chainID": "pisco-1",
-    "lcd": "https://pisco-lcd.terra.dev",
-    "api": "https://pisco-api.terra.dev",
-    "hive": "https://pisco-hive.terra.dev/graphql",
+    "chainID": "bajor-1",
+    "lcd": "https://lcd.terrarebels.dev",
+    "api": "https://api.terrarebels.dev",
+    "mantle": "https://lcd.terrarebels.dev",
     "walletconnectID": 0
   },
   "localterra": {
