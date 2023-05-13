@@ -180,6 +180,14 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
+	  terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+      protocol: "LBUNProject",
+      symbol: "LBUN",
+      name: "LUNC Burn Token",
+      token: "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4",
+      icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -1713,6 +1721,14 @@ module.exports = {
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
       decimals: 6,
     },
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      symbol: "BASE",
+      name: "Burn and Stake Enterprise Token",
+      token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
+      decimals: 6,
+    }, 
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
