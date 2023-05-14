@@ -165,13 +165,13 @@ module.exports = {
       icon: "https://red.redacted.money/red.svg",
     },
     terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle: {
-        protocol: "Stader",
-        symbol: "SD",
-        name: "SD Token",
-        token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
-        icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
-        decimals: 8,
-      },
+      protocol: "Stader",
+      symbol: "SD",
+      name: "SD Token",
+      token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
+      decimals: 8,
+    },
     terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
       protocol: "boneLuna",
       symbol: "bLUNA",
@@ -179,6 +179,14 @@ module.exports = {
       token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
+    },
+    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+      protocol: "LBUNProject",
+      symbol: "LBUN",
+      name: "LUNC Burn Token",
+      token: "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4",
+      icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+      decimals: 6,
     },
   },
   classic: {
@@ -1713,6 +1721,14 @@ module.exports = {
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
       decimals: 6,
     },
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      symbol: "BASE",
+      name: "Burn and Stake Enterprise Token",
+      token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
+      decimals: 6,
+    }, 
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
