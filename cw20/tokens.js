@@ -165,13 +165,13 @@ module.exports = {
       icon: "https://red.redacted.money/red.svg",
     },
     terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle: {
-        protocol: "Stader",
-        symbol: "SD",
-        name: "SD Token",
-        token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
-        icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
-        decimals: 8,
-      },
+      protocol: "Stader",
+      symbol: "SD",
+      name: "SD Token",
+      token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
+      decimals: 8,
+    },
     terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
       protocol: "boneLuna",
       symbol: "bLUNA",
@@ -180,7 +180,7 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
-	  terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
       protocol: "LBUNProject",
       symbol: "LBUN",
       name: "LUNC Burn Token",
