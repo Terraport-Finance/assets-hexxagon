@@ -1,5 +1,9 @@
 module.exports = [
   {
+    name: "Miata",
+    link: "https://miata.io",
+  },
+  {
     name: "Random Earth",
     link: "https://randomearth.io",
   },
