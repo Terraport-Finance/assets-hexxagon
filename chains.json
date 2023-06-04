@@ -4,7 +4,7 @@
     "chainID": "columbus-5",
     "lcd": "https://terra-classic-lcd.publicnode.com",
     "api": "https://api.terrarebels.net",
-    "mantle": "https://terra-classic-lcd.publicnode.com",
+    "hive": "https://hive.terrarebels.net/graphql",
     "walletconnectID": 1
   },
   "mainnet": {
