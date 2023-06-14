@@ -2,7 +2,7 @@
   "classic": {
     "name": "classic",
     "chainID": "columbus-5",
-    "lcd": "https://lcd.terrarebels.net",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
     "api": "https://api.terrarebels.net",
     "hive": "https://hive.terrarebels.net/graphql",
     "walletconnectID": 1
