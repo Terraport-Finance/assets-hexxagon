@@ -9,10 +9,10 @@
   },
   "mainnet": {
     "name": "mainnet",
-    "chainID": "phoenix-1",
-    "lcd": "https://phoenix-lcd.terra.dev",
-    "api": "https://phoenix-api.terra.dev",
-    "hive": "https://phoenix-hive.terra.dev/graphql",
+    "chainID": "columbus-5",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
+    "api": "https://terra-classic-public-api.publicnode.com",
+    "hive": "https://hive.terrarebels.net/graphql",
     "walletconnectID": 2
   },
   "testnet": {
