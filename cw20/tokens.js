@@ -1728,7 +1728,15 @@ module.exports = {
       token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
       icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
       decimals: 6,
-    }, 
+    },
+    terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8: {
+      protocol: "DokwonHub",
+      symbol: "DKW",
+      name: "DokwonHub",
+      token: "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8",
+      icon: "https://pbs.twimg.com/profile_images/1663910755010314243/36qI92YG_400x400.jpg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
