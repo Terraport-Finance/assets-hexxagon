@@ -1734,8 +1734,8 @@ module.exports = {
       symbol: "DKW",
       name: "DokwonHub",
       token: "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8",
-      icon: "https://pbs.twimg.com/profile_images/1663910755010314243/36qI92YG_400x400.jpg",
-      decimals: 6,
+      icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
+      decimals: 2,
     },
   },
   testnet: {
