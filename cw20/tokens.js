@@ -1735,7 +1735,7 @@ module.exports = {
       name: "DokwonHub",
       token: "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8",
       icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
-      decimals: 2,
+      decimals: 6,
     },
   },
   testnet: {
