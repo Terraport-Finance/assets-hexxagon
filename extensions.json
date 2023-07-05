@@ -2,13 +2,13 @@
   "$schema": "https://assets.terrarebels.net/schemas/web-extension-list.json",
   "whitelist": [
     {
-      "name": "Rebel Station",
-      "identifier": "rebel-station",
+      "name": "Terra Classic Station",
+      "identifier": "terra-classic-station",
       "icon": "https://assets.terrarebels.net/icon/station-extension/icon.png",
       "urls": [
         {
           "browser": "chrome",
-          "url": "https://chrome.google.com/webstore/detail/rebel-station/akckefnapafjbpphkefbpkpcamkoaoai"
+          "url": "https://chrome.google.com/webstore/detail/akckefnapafjbpphkefbpkpcamkoaoai"
         }
       ]
     },
