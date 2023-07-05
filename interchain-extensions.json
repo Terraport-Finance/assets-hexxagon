@@ -2,8 +2,8 @@
   "$schema": "https://assets.terrarebels.net/schemas/web-extension-list.json",
   "whitelist": [
     {
-      "name": "Classic Station Wallet",
-      "identifier": "rebel-station",
+      "name": "Terra Classic Station Wallet",
+      "identifier": "terra-classic-station",
       "icon": "https://assets.terrarebels.net/icon/station-extension/icon.png",
       "urls": [
         {
