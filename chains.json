@@ -4,20 +4,20 @@
     "chainID": "columbus-5",
     "lcd": "https://lcd.terrarebels.net",
     "api": "https://api.terrarebels.net",
-    "mantle": "https://lcd.terrarebels.net",
+    "hive": "https://hive.terrarebels.net/graphql",
     "walletconnectID": 1
   },
   "mainnet": {
     "name": "mainnet",
-    "chainID": "phoenix-1",
-    "lcd": "https://phoenix-lcd.terra.dev",
-    "api": "https://phoenix-api.terra.dev",
-    "hive": "https://phoenix-hive.terra.dev/graphql",
+    "chainID": "columbus-5",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
+    "api": "https://terra-classic-public-api.publicnode.com",
+    "hive": "https://hive.terrarebels.net/graphql",
     "walletconnectID": 2
   },
   "testnet": {
     "name": "testnet",
-    "chainID": "bajor-1",
+    "chainID": "rebel-2",
     "lcd": "https://lcd.terrarebels.dev",
     "api": "https://api.terrarebels.dev",
     "mantle": "https://lcd.terrarebels.dev",

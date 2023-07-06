@@ -1,0 +1,27 @@
+{
+  "$schema": "https://assets.terrarebels.net/schemas/web-extension-list.json",
+  "whitelist": [
+    {
+      "name": "Terra Classic Station Wallet",
+      "identifier": "terra-classic-station",
+      "icon": "https://assets.terrarebels.net/icon/station-extension/icon.png",
+      "urls": [
+        {
+          "browser": "chrome",
+          "url": "https://chrome.google.com/webstore/detail/akckefnapafjbpphkefbpkpcamkoaoai"
+        }
+      ]
+    },
+    {
+      "name": "XDEFI Wallet",
+      "identifier": "xdefi-wallet",
+      "icon": "https://xdefi-prod-common-ui.s3.eu-west-1.amazonaws.com/logo.svg",
+      "urls": [
+        {
+          "browser": "chrome",
+          "url": "https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf"
+        }
+      ]
+    }
+  ]
+}
