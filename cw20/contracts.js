@@ -1,77 +1,5 @@
 module.exports = {
-  mainnet:{
-    terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnhp: {
-      protocol: "Wormhole",
-      name: "Core Bridge",
-      icon: "https://assets.terra.money/bridge/wormhole.png",
-    },
-    terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9: {
-      protocol: "Wormhole",
-      name: "Token Bridge",
-      icon: "https://assets.terra.money/bridge/wormhole.png",
-    },
-    terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au: {
-      protocol: "IBC",
-      name: "ICS20 Contract",
-      icon: "https://assets.terra.money/icon/svg/IBC.svg",
-    },
-    terra10788fkzah89xrdm27zkj5yvhj9x3494lxawzm5qq3vvxcqz2yzaqyd3enk: {
-      protocol: "Eris Protocol",
-      name: "Eris Liquid Staking Hub",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
-    },
-    terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
-      protocol: "Eris Protocol",
-      name: "Eris Liquid Staking Token (ampLUNA)",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
-    },
-    terra1ccxwgew8aup6fysd7eafjzjz6hw89n40h273sgu3pl4lxrajnk5st2hvfh: {
-      protocol: "Eris Protocol",
-      name: "ampLUNA-LUNA Pair",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
-    },
-    terra1eh2aulwsyc9m45ggeznav402xcck4ll0yn0xgtlxyf4zkwch7juqsxvfzr: {
-      protocol: "Eris Protocol",
-      name: "ampLUNA-LUNA LP",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
-    },
-    terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
-      protocol: "STEAK Protocol",
-      name: "STEAK Liquid Token",
-      icon: "https://liquidstaking.app/steak.png",
-    },
-    terra12e4v50xl33fnwkzltz9vu565snlmx65vdrk8e2644km09myewr8q538psc: {
-      protocol: "STEAK Protocol",
-      name: "STEAK Liquid Staking Hub",
-      icon: "https://liquidstaking.app/steak.png",
-    },
-    terra1ttspm8jgeylc6us3mlpwpmlwzr3rkesm70vn6zkfr07pz7e3rzkq73ah2j: {
-      protocol: "Gidorah",
-      name: "Gidorah",
-      icon: "https://firebasestorage.googleapis.com/v0/b/wicca-c3bbe.appspot.com/o/app%2Fmainnet%2Ftoken%2FMIRhzK1keYKtJsRYg_oL9.jpeg?alt=media&token=5de0205f-d0f6-4a76-b765-e6dd59d7d47a",
-    },
-    terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s:{
-      protocol: "Luna Bird Board",
-      name: "Luna Bird Token",
-      icon: "https://www.lunabird.network/logo.png",
-    },
-    terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2:{
-      protocol: "Lira",
-      name: "Lira Token",
-      icon: "https://lira.financial/images/icons/lira.svg",
-    },
-    terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea: {
-      protocol: "boneLuna",
-      name: "boneLuna LSD",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
-    },
-    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
-      protocol: "LBUNProject",
-      name: "LUNC Burn Token",
-      icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
-    },   
-  },
-  classic: {
+  mainnet: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
       protocol: "Wormhole",
       name: "Core Bridge",
@@ -1792,7 +1720,7 @@ module.exports = {
       icon: "https://lira.financial/images/icons/lira.svg",
     },
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
-      protocol:"INTERCHAIN DAO COIN",
+      protocol: "INTERCHAIN DAO COIN",
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
     },
@@ -1800,7 +1728,15 @@ module.exports = {
       protocol: "LBUNProject",
       name: "Burn and Stake Enterprise Token",
       icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
-    }, 
+    },
+    terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8: {
+      protocol: "DokwonHub",
+      symbol: "DKW",
+      name: "DokwonHub",
+      token: "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8",
+      icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
+      decimals: 2,
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
@@ -1812,6 +1748,6 @@ module.exports = {
       protocol: "Wormhole",
       name: "Core Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
-    }
+    },
   },
 };

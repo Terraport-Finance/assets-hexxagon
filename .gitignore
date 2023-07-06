@@ -6,3 +6,5 @@ cw721/*.json
 ibc/*.json
 
 yarn.lock
+
+.idea/
