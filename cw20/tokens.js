@@ -1547,6 +1547,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
       decimals: 2,
     },
+    terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf: {
+      protocol: "KANDIS LIQUIDITY TOKEN",
+      symbol: "KLT",
+      token: "terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf",
+      icon: "https://i.ibb.co/GC2qYmj/Logo.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
