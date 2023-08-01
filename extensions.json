@@ -1,10 +1,10 @@
 {
-  "$schema": "https://assets.terrarebels.net/schemas/web-extension-list.json",
+  "$schema": "https://assets.terraclassic.community/schemas/web-extension-list.json",
   "whitelist": [
     {
       "name": "Terra Classic Station",
       "identifier": "terra-classic-station",
-      "icon": "https://assets.terrarebels.net/icon/station-extension/icon.png",
+      "icon": "https://assets.terraclassic.community/icon/station-extension/icon.png",
       "urls": [
         {
           "browser": "chrome",

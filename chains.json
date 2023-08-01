@@ -2,17 +2,17 @@
   "classic": {
     "name": "classic",
     "chainID": "columbus-5",
-    "lcd": "https://lcd.terrarebels.net",
-    "api": "https://api.terrarebels.net",
-    "hive": "https://hive.terrarebels.net/graphql",
+    "lcd": "https://lcd.terraclassic.community",
+    "api": "https://api.terraclassic.community",
+    "hive": "https://hive.terraclassic.community/graphql",
     "walletconnectID": 1
   },
   "mainnet": {
     "name": "mainnet",
     "chainID": "columbus-5",
-    "lcd": "https://lcd.terrarebels.net",
-    "api": "https://api.terrarebels.net",
-    "hive": "https://hive.terrarebels.net/graphql",
+    "lcd": "https://lcd.terraclassic.community",
+    "api": "https://api.terraclassic.community",
+    "hive": "https://hive.terraclassic.community/graphql",
     "walletconnectID": 2
   },
   "testnet": {

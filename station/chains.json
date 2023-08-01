@@ -10,7 +10,7 @@
       "prefix": "osmo",
       "baseAsset": "uosmo",
       "name": "Osmosis",
-      "icon": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
+      "icon": "https://assets.terraclassic.community/icon/svg/ibc/OSMO.svg",
       "ibc": {
         "toTerra": "channel-251",
         "fromTerra": "channel-1"
@@ -26,7 +26,7 @@
       "prefix": "terra",
       "baseAsset": "uluna",
       "name": "Terra",
-      "icon": "https://assets.terra.money/icon/svg/Terra.svg"
+      "icon": "https://assets.terraclassic.community/icon/svg/Terra.svg"
     }
   },
   "testnet": {
@@ -40,7 +40,7 @@
       "prefix": "terra",
       "baseAsset": "uluna",
       "name": "Terra",
-      "icon": "https://assets.terra.money/icon/svg/Terra.svg"
+      "icon": "https://assets.terraclassic.community/icon/svg/Terra.svg"
     }
   }
 }
