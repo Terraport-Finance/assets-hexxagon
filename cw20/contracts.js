@@ -1730,12 +1730,12 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
     },
     terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8: {
-      protocol: "DokwonHub",
-      symbol: "DKW",
-      name: "DokwonHub",
-      token: "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8",
-      icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
-      decimals: 2,
+      protocol: "LunaClassicGoblins",
+      symbol: "LCG",
+      name: "LunaClassicGoblins",
+      token: "terra134n8tkt9nxfwh3pt3cs8q3dprw4xlx7uf4upls2py52g30rs54hqn4c2zz",
+      icon: "https://i.ibb.co/Yh5ZgwF/lg.png",
+      decimals: 6,
     },
   },
   testnet: {
