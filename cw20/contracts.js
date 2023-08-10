@@ -1751,6 +1751,13 @@ module.exports = {
       icon: "https://res.cloudinary.com/teepublic/image/private/s--vXReCoKs--/t_Preview/b_rgb:191919,c_lpad,f_jpg,h_630,q_90,w_1200/v1589998006/production/designs/10395693_0.jpg",
       decimals: 6,
     },
+    terra1fzkwugunesumk3hn5adcmd9hsydamatvpwj6y6xpzhk68u2t3mnstmjfh5: {
+      protocol: "GARUDA TOKEN",
+      symbol: "GRD",
+      token: "terra1fzkwugunesumk3hn5adcmd9hsydamatvpwj6y6xpzhk68u2t3mnstmjfh5",
+      icon: "https://drive.google.com/file/d/18p5x1Spn0VTyiOCpTlWoxOJ7deK9e_Cn/view?usp=sharing",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
