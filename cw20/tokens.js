@@ -1554,6 +1554,13 @@ module.exports = {
       icon: "https://i.ibb.co/GC2qYmj/Logo.png",
       decimals: 6,
     },
+    terra1fzkwugunesumk3hn5adcmd9hsydamatvpwj6y6xpzhk68u2t3mnstmjfh5: {
+      protocol: "GARUDA TOKEN",
+      symbol: "GRD",
+      token: "terra1fzkwugunesumk3hn5adcmd9hsydamatvpwj6y6xpzhk68u2t3mnstmjfh5",
+      icon: "https://drive.google.com/file/d/18p5x1Spn0VTyiOCpTlWoxOJ7deK9e_Cn/view?usp=sharing",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
