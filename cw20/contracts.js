@@ -1745,7 +1745,7 @@ module.exports = {
       protocol: "GARUDA TOKEN",
       symbol: "GRD",
       token: "terra1fzkwugunesumk3hn5adcmd9hsydamatvpwj6y6xpzhk68u2t3mnstmjfh5",
-      icon: "https://drive.google.com/file/d/18p5x1Spn0VTyiOCpTlWoxOJ7deK9e_Cn/view?usp=sharing",
+      icon: "https://drive.google.com/file/d/18p5x1Spn0VTyiOCpTlWoxOJ7deK9e_Cn/view",
       decimals: 6,
     },
   },
