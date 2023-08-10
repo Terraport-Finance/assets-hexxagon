@@ -1,12 +1,4 @@
 {
-  "classic": {
-    "name": "classic",
-    "chainID": "columbus-5",
-    "lcd": "https://lcd.terraclassic.community",
-    "api": "https://api.terraclassic.community",
-    "hive": "https://hive.terraclassic.community/graphql",
-    "walletconnectID": 1
-  },
   "mainnet": {
     "name": "mainnet",
     "chainID": "columbus-5",
