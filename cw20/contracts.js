@@ -570,11 +570,6 @@ module.exports = {
       name: "SPEC Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
-    terra1fxwelge6mf5l6z0rjpylzcfq9w9tw2q7tewaf5: {
-      protocol: "Spectrum",
-      name: "SPEC Staking",
-      icon: "https://terra.spec.finance/assets/SPEC.png",
-    },
     terra1vvu80qnl0yn94stkc9sy2f5xcqcscu2fercgzq: {
       protocol: "Spectrum",
       name: "SPEC Platform",
@@ -1244,11 +1239,6 @@ module.exports = {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
-    },
-    terra15e4w665qtzdr7uvpu9catk6edsdr3yx73uprfr: {
-      protocol: "Kujira",
-      name: "Team Multisignature Warchest",
-      icon: "https://assets.kujira.app/kuji.png",
     },
     terra1w7gtx76rs7x0e27l7x2e88vcr52tp9d8g4umjz: {
       protocol: "Kujira",
