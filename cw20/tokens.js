@@ -1564,6 +1564,7 @@ module.exports = {
     terra1lh89lp5szej7r3rjece94yzx5ss0nkyksvsjlag8eszaf42ruv5qze9es9: {
       protocol: "GARUDAX TOKEN",
       symbol: "GRDX",
+      name: "Garudax Token",
       token: "terra1lh89lp5szej7r3rjece94yzx5ss0nkyksvsjlag8eszaf42ruv5qze9es9",
       icon: "https://i.ibb.co/fqw7TNS/Garuda-Token.jpg",
       decimals: 6,
