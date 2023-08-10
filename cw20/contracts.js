@@ -1737,6 +1737,20 @@ module.exports = {
       icon: "https://i.ibb.co/Yh5ZgwF/lg.png",
       decimals: 6,
     },
+    terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf: {
+      protocol: "KANDIS LIQUIDITY TOKEN",
+      symbol: "KLT",
+      token: "terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf",
+      icon: "https://i.ibb.co/GC2qYmj/Logo.png",
+      decimals: 6,
+    },
+    terra1qqjukgt8ddhapd2tvwmzlzfz3ajzslmj9pjhanmf56t6tp502c7sd8uu0j: {
+      protocol: "wAnchor",
+      symbol: "wANC",
+      token: "terra1qqjukgt8ddhapd2tvwmzlzfz3ajzslmj9pjhanmf56t6tp502c7sd8uu0j",
+      icon: "https://res.cloudinary.com/teepublic/image/private/s--vXReCoKs--/t_Preview/b_rgb:191919,c_lpad,f_jpg,h_630,q_90,w_1200/v1589998006/production/designs/10395693_0.jpg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
