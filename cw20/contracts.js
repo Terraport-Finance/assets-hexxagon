@@ -1719,7 +1719,7 @@ module.exports = {
       name: "Burn and Stake Enterprise Token",
       icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
     },
-    terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8: {
+    terra134n8tkt9nxfwh3pt3cs8q3dprw4xlx7uf4upls2py52g30rs54hqn4c2zz: {
       protocol: "LunaClassicGoblins",
       symbol: "LCG",
       name: "LunaClassicGoblins",
