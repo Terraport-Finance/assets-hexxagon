@@ -435,11 +435,6 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
     },
-    terra12emygawy3gru28fdev7j4ghx5z05m7eeu7nq0r6exd098egzfdjqmcvscn: {
-      dex: "terraswap",
-      type: "xyk",
-      assets: ["uluna", "terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf"],
-    },
   },
   testnet: {},
 };

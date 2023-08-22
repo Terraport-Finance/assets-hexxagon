@@ -1547,13 +1547,6 @@ module.exports = {
       icon: "https://i.ibb.co/Yh5ZgwF/lg.png",
       decimals: 6,
     },
-    terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf: {
-      protocol: "KANDIS LIQUIDITY TOKEN",
-      symbol: "KLT",
-      token: "terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf",
-      icon: "https://i.ibb.co/GC2qYmj/Logo.png",
-      decimals: 6,
-    },
     terra1qqjukgt8ddhapd2tvwmzlzfz3ajzslmj9pjhanmf56t6tp502c7sd8uu0j: {
       protocol: "wAnchor",
       symbol: "wANC",
