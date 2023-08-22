@@ -10,9 +10,9 @@
   "testnet": {
     "name": "testnet",
     "chainID": "rebel-2",
-    "lcd": "https://lcd.terrarebels.dev",
-    "api": "https://api.terrarebels.dev",
-    "mantle": "https://lcd.terrarebels.dev",
+    "lcd": "https://lcd.hexxagon.dev",
+    "api": "https://api.hexxagon.dev",
+    "mantle": "https://lcd.hexxagon.dev",
     "walletconnectID": 0
   },
   "localterra": {
