@@ -2,8 +2,8 @@
   "mainnet": {
     "name": "mainnet",
     "chainID": "columbus-5",
-    "lcd": "https://lcd.terraclassic.community",
-    "api": "https://api.terraclassic.community",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
+    "api": "https://terra-classic-public-api.publicnode.com",
     "hive": "https://hive.terraclassic.community/graphql",
     "walletconnectID": 2
   },
