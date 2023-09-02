@@ -435,6 +435,21 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
     },
+	terra19rxlt53x6j7jxfl3vedr9esylalduyvqtrc2cyqrxg59qy2ep8fskrm0pe: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh"],
+    },
+  terra1lzxz6arwkq6vlt0z2af0fdvz93ftrygq28lad2w778r5p0sgt2mql04e92: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh", "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m"],
+    },
+  terra1kaphd3s9kl72cht3qmn0elkcqezcz60zarapah677adg8dhtvlequ6gezy: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m"],
+    },    
   },
   testnet: {},
 };
