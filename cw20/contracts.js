@@ -1795,6 +1795,14 @@ module.exports = {
       token: "terra18jrgexnn35dxa8nrpmuatkxknmjs330gp6txavrp3fxzz6muztqqec60hf",
       icon: "https://hccfactory.com/assets/img/gems/DGEM.png",
       decimals: 6,
+    },
+    terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
+      protocol: "GAME Protocol",
+      symbol: "GAME",
+      name: "GAME",
+      token: "terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh",
+      icon: "https://github.com/GAMEProtocal/GAME/blob/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
+      decimals: 6,
     }
   },
   testnet: {
