@@ -1666,6 +1666,22 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
       decimals: 2,
     },
+    terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
+      protocol: "GAME Protocol",
+      symbol: "GAME",
+      name: "GAME",
+      token: "terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh",
+      icon: "https://github.com/GAMEProtocal/GAME/blob/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
+      decimals: 6,
+    },
+    terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
+      protocol: "LUNC Warriors NFT",
+      symbol: "LUNW",
+      name: "LUNC Warriors Token",
+      token: "terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c",
+      icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
