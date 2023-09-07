@@ -2,8 +2,8 @@
   "mainnet": {
     "name": "mainnet",
     "chainID": "columbus-5",
-    "lcd": "https://terra-classic-lcd.publicnode.com",
-    "api": "https://terra-classic-public-api.publicnode.com'",
+    "lcd": "https://lcd.terraclassic.community",
+    "api": "https://api.terraclassic.community",
     "hive": "https://hive.terraclassic.community/graphql",
     "walletconnectID": 2
   },
@@ -12,7 +12,7 @@
     "chainID": "rebel-2",
     "lcd": "https://lcd.hexxagon.dev",
     "api": "https://api.hexxagon.dev",
-    "mantle": "https://lcd.hexxagon.dev",
+    "hive": "https://hive.terraclassic.community/graphql",
     "walletconnectID": 0
   },
   "localterra": {
