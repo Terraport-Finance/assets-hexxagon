@@ -1682,6 +1682,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
       decimals: 6
     },
+    terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw: {
+      protocol: "Garuda Universe",
+      symbol: "GRDX",
+      name: "GarudaX Token",
+      token: "terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw",
+      icon: "https://i.ibb.co/jkwPpnS/zz1.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
