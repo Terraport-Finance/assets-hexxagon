@@ -2,17 +2,17 @@
   "mainnet": {
     "name": "mainnet",
     "chainID": "columbus-5",
-    "lcd": "https://lcd.terraclassic.community",
-    "api": "https://api.terraclassic.community",
-    "hive": "https://hive.terraclassic.community/graphql",
+    "lcd": "https://lcd.terra-classic.hexxagon.io",
+    "api": "https://api.terra-classic.hexxagon.io",
+    "hive": "https://hive.terra-classic.hexxagon.io/graphql",
     "walletconnectID": 2
   },
   "testnet": {
     "name": "testnet",
     "chainID": "rebel-2",
-    "lcd": "https://lcd.hexxagon.dev",
-    "api": "https://api.hexxagon.dev",
-    "hive": "https://hive.terraclassic.community/graphql",
+    "lcd": "https://lcd.terra-classic.hexxagon.dev",
+    "api": "https://api.terra-classic.hexxagon.dev",
+    "hive": "https://hive.terra-classic.hexxagon.io/graphql",
     "walletconnectID": 0
   },
   "localterra": {
