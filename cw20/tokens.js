@@ -1505,7 +1505,7 @@ module.exports = {
       name: "cLUNA",
       token: "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
       icon: "https://home.prismprotocol.app/cluna.png",
-      decimals: 6
+      decimals: 6,
     },
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
       protocol: "INTERCHAIN DAO COIN",
@@ -1618,12 +1618,12 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/QmQ4gGYkPE6MFGbCpamgdeG1aTeagjhAHcX1eszYzCjzvy",
       decimals: 6,
     },
-     terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54: {
+    terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54: {
       protocol: "Optimizer Protocol",
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
-      icon: "https://assets.terra.dev/icon/opz/OPZ.png",
+      icon: "https://assets.hexxagon.io/icon/opz/OPZ.png",
       decimals: 6,
     },
     terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70: {
@@ -1634,12 +1634,12 @@ module.exports = {
       icon: "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd",
       decimals: 0,
     },
-      terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4: {
+    terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4: {
       protocol: "Optimizer Protocol",
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
-      icon: "https://assets.terra.dev/icon/opz/OPZC.png",
+      icon: "https://assets.hexxagon.io/icon/opz/OPZC.png",
       decimals: 6,
     },
     terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
@@ -1680,7 +1680,7 @@ module.exports = {
       name: "LUNC Warriors Token",
       token: "terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c",
       icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
-      decimals: 6
+      decimals: 6,
     },
     terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw: {
       protocol: "Garuda Universe",

@@ -1,14 +1,14 @@
 module.exports = {
-  mainnet:{
+  mainnet: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
       protocol: "Wormhole",
       name: "Core Bridge",
-      icon: "https://assets.terra.dev/bridge/wormhole.png",
+      icon: "https://assets.hexxagon.io/bridge/wormhole.png",
     },
     terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf: {
       protocol: "Wormhole",
       name: "Token Bridge",
-      icon: "https://assets.terra.dev/bridge/wormhole.png",
+      icon: "https://assets.hexxagon.io/bridge/wormhole.png",
     },
     terra1jkndu9w5attpz09ut02sgey5dd3e8sq5watzm0: {
       protocol: "Terraswap",
@@ -298,42 +298,42 @@ module.exports = {
     terra1erfdlgdtt9e05z0j92wkndwav4t75xzyapntkv: {
       protocol: "Terraswap",
       name: "LUNA-KRT Pair",
-      icon: "https://assets.terra.dev/icon/60/KRT.png",
+      icon: "https://assets.hexxagon.io/icon/60/KRT.png",
     },
     terra1mdujhgx37fjg7wrwqj98mkuu6knks7ap934987: {
       protocol: "Terraswap",
       name: "LUNA-KRT LP",
-      icon: "https://assets.terra.dev/icon/60/KRT.png",
+      icon: "https://assets.hexxagon.io/icon/60/KRT.png",
     },
     terra16pwrn7frj4d8r4dfc3l8y3xkt5uk2505ad7nvm: {
       protocol: "Terraswap",
       name: "LUNA-MNT Pair",
-      icon: "https://assets.terra.dev/icon/60/MNT.png",
+      icon: "https://assets.hexxagon.io/icon/60/MNT.png",
     },
     terra1rckmyh59j6lg29432yhy088q3umcd3ssc0pkwf: {
       protocol: "Terraswap",
       name: "LUNA-MNT LP",
-      icon: "https://assets.terra.dev/icon/60/MNT.png",
+      icon: "https://assets.hexxagon.io/icon/60/MNT.png",
     },
     terra1gl4v79vhrdzjus9hcs69jsf9n8t7grnuzcv6kv: {
       protocol: "Terraswap",
       name: "LUNA-SDT Pair",
-      icon: "https://assets.terra.dev/icon/60/SDT.png",
+      icon: "https://assets.hexxagon.io/icon/60/SDT.png",
     },
     terra18v59jt68wdqv2np80fq3cgwrv3nr0tx6enxl6a: {
       protocol: "Terraswap",
       name: "LUNA-SDT LP",
-      icon: "https://assets.terra.dev/icon/60/SDT.png",
+      icon: "https://assets.hexxagon.io/icon/60/SDT.png",
     },
     terra1l7vy20x940je7lskm6x9s839vjsmekz9k9mv7g: {
       protocol: "Terraswap",
       name: "LUNA-UST Pair",
-      icon: "https://assets.terra.dev/icon/60/UST.png",
+      icon: "https://assets.hexxagon.io/icon/60/UST.png",
     },
     terra1urt477n29estvze3nuqp06y3me8u0tfehjc8e6: {
       protocol: "Terraswap",
       name: "LUNA-UST LP",
-      icon: "https://assets.terra.dev/icon/60/UST.png",
+      icon: "https://assets.hexxagon.io/icon/60/UST.png",
     },
     terra1wh39swv7nq36pnefnupttm2nr96kz7jjddyt2x: {
       protocol: "Mirror",
@@ -1750,7 +1750,7 @@ module.exports = {
       icon: "https://i.ibb.co/fqw7TNS/Garuda-Token.jpg",
     },
     terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
-      protocol:"BAZ",
+      protocol: "BAZ",
       name: "BAZ",
       icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
     },
@@ -1814,12 +1814,12 @@ module.exports = {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
       protocol: "Wormhole",
       name: "Token Bridge",
-      icon: "https://assets.terra.dev/bridge/wormhole.png",
+      icon: "https://assets.hexxagon.io/bridge/wormhole.png",
     },
     terra19nv3xr5lrmmr7egvrk2kqgw4kcn43xrtd5g0mpgwwvhetusk4k7s66jyv0: {
       protocol: "Wormhole",
       name: "Core Bridge",
-      icon: "https://assets.terra.dev/bridge/wormhole.png",
-    }
+      icon: "https://assets.hexxagon.io/bridge/wormhole.png",
+    },
   },
 };
