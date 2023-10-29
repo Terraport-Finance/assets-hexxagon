@@ -1539,14 +1539,6 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
       decimals: 6,
     },
-    terra134n8tkt9nxfwh3pt3cs8q3dprw4xlx7uf4upls2py52g30rs54hqn4c2zz: {
-      protocol: "LunaClassicGoblins",
-      symbol: "LCG",
-      name: "LunaClassicGoblins",
-      token: "terra134n8tkt9nxfwh3pt3cs8q3dprw4xlx7uf4upls2py52g30rs54hqn4c2zz",
-      icon: "https://i.ibb.co/Yh5ZgwF/lg.png",
-      decimals: 6,
-    },
     terra1qqjukgt8ddhapd2tvwmzlzfz3ajzslmj9pjhanmf56t6tp502c7sd8uu0j: {
       protocol: "wAnchor",
       symbol: "wANC",
@@ -1648,14 +1640,6 @@ module.exports = {
       name: "Sonic Token",
       token: "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
       icon: "https://swap.sonikchain.com/sonic32.png",
-      decimals: 6,
-    },
-    terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276: {
-      protocol: "Terraport",
-      symbol: "TERRA",
-      name: "Terraport",
-      token: "terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276",
-      icon: "https://i.ibb.co/GtmvHT4/logo.png",
       decimals: 6,
     },
     terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8: {

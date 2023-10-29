@@ -48,6 +48,14 @@ module.exports = {
       name: "Axelar USD Coin",
       icon: "https://assets.hexxagon.io/icon/svg/ibc/axlUSDC.svg",
     },
+    "7F8A299575858D452509369851605DCD9D4595EB967E805388347FD54852AA62": {
+      denom: "ibc/7F8A299575858D452509369851605DCD9D4595EB967E805388347FD54852AA62",
+      path: "transfer/channel-71",
+      base_denom: "ulcg",
+      symbol: "LCG",
+      name: "Lunc Goblins Token",
+      icon: "https://raw.githubusercontent.com/luncgoblins/assets/main/lcg.png",
+    },
   },
   testnet: {
     C567713C9D0904098C14BA0FBEB9192C5B68B590757EE6913DC292710C8926E6: {
